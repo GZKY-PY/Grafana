@@ -8,3 +8,6 @@ influxd run 开启服务之后
 
 influx 进入交互模式
 
+参考 https://www.cnblogs.com/huang-yc/p/10500209.html
+  https://www.jianshu.com/p/a1344ca86e9b
+
